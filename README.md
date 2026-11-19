@@ -53,4 +53,4 @@ A SQL Server project using three related tables: `Departments`, `Employees` and 
 
 ## Contact
 
-For contact details, please use the email address and LinkedIn profile listed on my CV.
+For contact details, please use the email address listed on my CV.
