@@ -1,8 +1,8 @@
-# Bucudo | Data Analytics Portfolio
+# VHUKHUDO | Data Analytics Portfolio
 
 Welcome to my data analytics portfolio. This repository showcases practical projects in **Microsoft Power BI, SQL Server and Excel**, including interactive reports, data preparation, analysis and recommendations.
 
-I hold a **BA in Psychology and English** and the **Microsoft Data Analysis Professional Certificate**. These projects demonstrate how I turn data into understandable findings to support decisions.
+ **Microsoft Data Analysis with SQL, Excel and Power BI Professional Certificate**. These projects demonstrate how I turn data into understandable findings to support decisions.
 
 ## Technical skills
 
