@@ -2,7 +2,7 @@
 
 Welcome to my data analytics portfolio. This repository showcases practical projects in **Microsoft Power BI, SQL Server and Excel**, including interactive reports, data preparation, analysis and recommendations.
 
- With an obtained**Microsoft Data Analysis with SQL, Excel and Power BI Professional Certificate**. These projects demonstrate how I turn data into understandable findings to support decisions.
+I hold **Microsoft Data Analysis with SQL, Excel and Power BI Professional Certificate**. These projects demonstrate how I turn data into understandable findings to support decisions.
 
 ## Technical skills
 
